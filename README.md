@@ -4,6 +4,8 @@
 Saya Varrell Rizky Irvanni Mahkota dengan NIM 2306245 mengerjakan TP10 dalam mata kuliah DPBO untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Dokumentasi
+https://github.com/user-attachments/assets/4ca6e5f0-969e-4bdc-a816-3cfadd5eab7f
+
 
 
 ## Desain Program
